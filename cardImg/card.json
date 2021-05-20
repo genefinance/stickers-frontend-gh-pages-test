@@ -1,0 +1,598 @@
+{
+    "1": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/genensis/CardGenesis-01.png",
+        "imageWithFrame": "/cardImg/genensis/cardGenesisWF01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "Genesis"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "NR"},
+            {"trait_type": "Boost", "value": "625"},
+            {"trait_type": "lv", "value": "1"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "2": {
+        "external_url": "https://opennft.io/2", 
+        "image": "/cardImg/genensis/CardGenesis-02.png",
+        "imageWithFrame": "/cardImg/genensis/cardGenesisWF02.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "Genesis"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "NR"},
+            {"trait_type": "Boost", "value": "1250"},
+            {"trait_type": "lv", "value": "2"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Atlantis"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "亚特兰蒂斯"
+        }
+    },
+    "3": {
+        "image": "/cardImg/genensis/CardGenesis-03.png",
+        "imageWithFrame": "/cardImg/genensis/cardGenesisWF03.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "Genesis"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "1875"},
+            {"trait_type": "lv", "value": "3"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Maya civilization"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "玛雅文明"
+        }
+    },
+    "4": {
+        "image": "/cardImg/genensis/CardGenesis-04.png",
+        "imageWithFrame": "/cardImg/genensis/cardGenesisWF04.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "Genesis"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "2500"},
+            {"trait_type": "lv", "value": "4"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Modern civilization"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "现代文明"
+        }
+    },
+    "5": {
+        "image": "/cardImg/genensis/CardGenesis-05.png",
+        "imageWithFrame": "/cardImg/genensis/cardGenesisWF05.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "Genesis"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "3125"},
+            {"trait_type": "lv", "value": "5"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Planetary civilization"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "类行星文明"
+        }
+    },
+    "6": {
+        "image": "/cardImg/genensis/Ezreal.jpeg",
+        "imageWithFrame": "/cardImg/genensis/Ezreal.jpeg",
+        "attributes": [
+            {"trait_type": "Set", "value": "Genesis"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "3125"},
+            {"trait_type": "lv", "value": "6"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card 6",
+            "name": "Planetary civilization 6"
+        },
+        "zh":{
+            "description": "创世 • 加速卡 6",
+            "name": "类行星文明 6"
+        }
+    },
+    "20": {
+        "image": "/cardImg/genensis/CardGenesisLP-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "Genesis Lp"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"}
+        ],
+        "en":{
+            "description": "Genesis LP • Crypto Influencers",
+            "name": "Vision ETH"
+        },
+        "zh":{
+            "description": "创世 LP • 加密领域影响者",
+            "name": "幻视 ETH"
+        }
+    },
+    "21": {
+        "image": "https://stickers.art/cardImg/genensis/CardGenesisLP-02.jpg",
+        "attributes": [
+            {"trait_type": "Set", "value": "Genesis Lp"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"}
+        ],
+        "en":{
+            "description": "Genesis LP • Crypto Influencers",
+            "name": "Iron Mars Doge"
+        },
+        "zh":{
+            "description": "创世 LP • 加密领域影响者",
+            "name": "钢铁火星狗"
+        }
+    },
+    "22": {
+        "image": "https://stickers.art/cardImg/genensis/CardGenesisLP-03.jpg",
+        "attributes": [
+            {"trait_type": "Set", "value": "Genesis Lp"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"}
+        ],
+        "en":{
+            "description": "Genesis LP • Crypto Influencers",
+            "name": "Bit Thanos"
+        },
+        "zh":{
+            "description": "创世 LP • 加密领域影响者",
+            "name": "比特灭霸"
+        }
+    },
+    "23": {
+        "image": "https://stickers.art/cardImg/genensis/CardGenesisLP-04.jpg",
+        "attributes": [
+            {"trait_type": "Set", "value": "Genesis Lp"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"}
+        ],
+        "en":{
+            "description": "Genesis LP • Fractal Art",
+            "name": "Fractist-Non-integer"
+        },
+        "zh":{
+            "description": "创世 LP • 分形艺术",
+            "name": "Fractist-非整数维世界"
+        }
+    },
+    "24": {
+        "video": "/cardImg/genensis/CardGenesisLP-05.mp4",
+        "attributes": [
+            {"trait_type": "Set", "value": "Genesis Lp"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"}
+        ],
+        "en":{
+            "description": "Genesis LP • Fractal Art",
+            "name": "Fractist-Galaxy Metaverse"
+        },
+        "zh":{
+            "description": "创世 LP • 分形艺术",
+            "name": "Fractist-星际元界"
+        }
+    },
+    "30": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/etp/etp-30.png",
+        "imageWithFrame": "/cardImg/etp/etp-30.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "ETP"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "625"},
+            {"trait_type": "lv", "value": "1"}
+        ],
+        "en": {
+            "description": "Genesis • Accelerator Card",
+            "name": "Genesis-Metaverse ETP"
+        },
+        "zh": {
+            "description": "创世 • 加速卡",
+            "name": "创世纪-元界ETP"
+        }
+    },
+    "31": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/etp/etp-01.png",
+        "imageWithFrame": "/cardImg/etp/etp-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "ETP"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "1250"},
+            {"trait_type": "lv", "value": "2"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "32": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/etp/etp-01.png",
+        "imageWithFrame": "/cardImg/etp/etp-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "ETP"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "1875"},
+            {"trait_type": "lv", "value": "3"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "33": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/etp/etp-01.png",
+        "imageWithFrame": "/cardImg/etp/etp-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "ETP"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "2500"},
+            {"trait_type": "lv", "value": "4"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "34": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/etp/etp-01.png",
+        "imageWithFrame": "/cardImg/etp/etp-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "ETP"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "3125"},
+            {"trait_type": "lv", "value": "5"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "49": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/aisi/aisi-01.png",
+        "imageWithFrame": "/cardImg/aisi/aisi-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "aisi"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "625"},
+            {"trait_type": "lv", "value": "1"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "50": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/aisi/aisi-01.png",
+        "imageWithFrame": "/cardImg/aisi/aisi-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "aisi"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "1250"},
+            {"trait_type": "lv", "value": "2"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "51": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/aisi/aisi-01.png",
+        "imageWithFrame": "/cardImg/aisi/aisi-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "aisi"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "1875"},
+            {"trait_type": "lv", "value": "3"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "52": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/aisi/aisi-01.png",
+        "imageWithFrame": "/cardImg/aisi/aisi-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "aisi"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "2500"},
+            {"trait_type": "lv", "value": "4"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "53": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/aisi/aisi-01.png",
+        "imageWithFrame": "/cardImg/aisi/aisi-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "aisi"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "3125"},
+            {"trait_type": "lv", "value": "5"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "68": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/bayareadefi/bay-01.png",
+        "imageWithFrame": "/cardImg/bayareadefi/bay-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "bay area defi"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "625"},
+            {"trait_type": "lv", "value": "1"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "69": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/bayareadefi/bay-01.png",
+        "imageWithFrame": "/cardImg/bayareadefi/bay-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "bay area defi"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "1250"},
+            {"trait_type": "lv", "value": "2"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "70": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/bayareadefi/bay-01.png",
+        "imageWithFrame": "/cardImg/bayareadefi/bay-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "bay area defi"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "1875"},
+            {"trait_type": "lv", "value": "3"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "71": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/bayareadefi/bay-01.png",
+        "imageWithFrame": "/cardImg/bayareadefi/bay-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "bay area defi"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "2500"},
+            {"trait_type": "lv", "value": "4"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "72": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/bayareadefi/bay-01.png",
+        "imageWithFrame": "/cardImg/bayareadefi/bay-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "bay area defi"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "3125"},
+            {"trait_type": "lv", "value": "5"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "87": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/bayareadefi/bay-01.png",
+        "imageWithFrame": "/cardImg/bayareadefi/bay-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "du boss"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "625"},
+            {"trait_type": "lv", "value": "1"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "88": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/duboss/duboss-01.png",
+        "imageWithFrame": "/cardImg/duboss/duboss-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "du boss"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "1250"},
+            {"trait_type": "lv", "value": "2"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "89": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/duboss/duboss-01.png",
+        "imageWithFrame": "/cardImg/duboss/duboss-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "du boss"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "1875"},
+            {"trait_type": "lv", "value": "3"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "90": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/duboss/duboss-01.png",
+        "imageWithFrame": "/cardImg/duboss/duboss-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "du boss"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "2500"},
+            {"trait_type": "lv", "value": "4"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    },
+    "91": {
+        "external_url": "https://opennft.io/1", 
+        "image": "/cardImg/duboss/duboss-01.png",
+        "imageWithFrame": "/cardImg/duboss/duboss-01.png",
+        "attributes": [
+            {"trait_type": "Set", "value": "du boss"},
+            {"trait_type": "Artist", "value": "Stickers"},
+            {"trait_type": "Rarity", "value": "R"},
+            {"trait_type": "Boost", "value": "3125"},
+            {"trait_type": "lv", "value": "5"}
+        ],
+        "en":{
+            "description": "Genesis • Accelerator Card",
+            "name": "Birth of the Universe"
+        },
+        "zh":{
+            "description": "创世 • 加速卡",
+            "name": "宇宙的诞生"
+        }
+    }
+}
