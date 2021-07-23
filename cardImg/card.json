@@ -109,10 +109,12 @@
         ],
         "en":{
             "description": "Genesis • Accelerator Card 6",
+            "auctionDescription":"One final piece, 'Power of Pandora,' is up for auction. The highest bidder in $Stickers token at auction close will walk away with this exclusive 1 of 1 NFT.",
             "name": "Planetary civilization"
         },
         "zh":{
             "description": "创世 • 加速卡 6",
+            "auctionDescription":"One final piece, 'Power of Pandora,' is up for auction. The highest bidder in $Stickers token at auction close will walk away with this exclusive 1 of 1 NFT.",
             "name": "行星文明"
         }
     },
